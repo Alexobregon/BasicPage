@@ -7,7 +7,9 @@ Prerequisites
 
 Text editor (e.g., Visual Studio Code, Sublime Text)
 Web browser (e.g., Google Chrome, Mozilla Firefox)
+
 Getting Started
+
 Download the starter files for this tutorial.
 Open the downloaded folder in your text editor.
 Open the index.html file and follow the tutorial instructions.
